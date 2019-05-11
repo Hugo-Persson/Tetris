@@ -1,0 +1,9 @@
+D:\OneDrive - Halmstads kommun\Programmering 2\TetrisMultiplayer\TetrisMultiplayer\bin\Debug\netstandard2.0\TetrisMultiplayer.deps.json
+D:\OneDrive - Halmstads kommun\Programmering 2\TetrisMultiplayer\TetrisMultiplayer\bin\Debug\netstandard2.0\TetrisMultiplayer.dll
+D:\OneDrive - Halmstads kommun\Programmering 2\TetrisMultiplayer\TetrisMultiplayer\bin\Debug\netstandard2.0\TetrisMultiplayer.pdb
+D:\OneDrive - Halmstads kommun\Programmering 2\TetrisMultiplayer\TetrisMultiplayer\obj\Debug\netstandard2.0\TetrisMultiplayer.csproj.CoreCompileInputs.cache
+D:\OneDrive - Halmstads kommun\Programmering 2\TetrisMultiplayer\TetrisMultiplayer\obj\Debug\netstandard2.0\TetrisMultiplayer.AssemblyInfoInputs.cache
+D:\OneDrive - Halmstads kommun\Programmering 2\TetrisMultiplayer\TetrisMultiplayer\obj\Debug\netstandard2.0\TetrisMultiplayer.AssemblyInfo.cs
+D:\OneDrive - Halmstads kommun\Programmering 2\TetrisMultiplayer\TetrisMultiplayer\obj\Debug\netstandard2.0\TetrisMultiplayer.dll
+D:\OneDrive - Halmstads kommun\Programmering 2\TetrisMultiplayer\TetrisMultiplayer\obj\Debug\netstandard2.0\TetrisMultiplayer.pdb
+D:\OneDrive - Halmstads kommun\Programmering 2\TetrisMultiplayer\TetrisMultiplayer\obj\Debug\netstandard2.0\TetrisMultiplayer.csprojAssemblyReference.cache
